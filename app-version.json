@@ -1,8 +1,8 @@
 {
-  "versionName": "2.10",
-  "versionCode": 22,
+  "versionName": "2.11",
+  "versionCode": 23,
   "releasedAt": "2026-08-24",
-  "notes": "Navegar abre GPS no próprio Erb Rotas, com instruções de rua, sem Google Maps nem Waze.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.10/Erb-Rotas-debug.apk",
+  "notes": "Menu com botão para procurar atualização. Sem campo de servidor.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.11/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
