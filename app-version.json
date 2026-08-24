@@ -1,8 +1,8 @@
 {
-  "versionName": "2.12",
-  "versionCode": 24,
+  "versionName": "2.13",
+  "versionCode": 25,
   "releasedAt": "2026-08-24",
-  "notes": "Navegação com cores próprias (verde-água), sem o visual amarelo do 99.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.12/Erb-Rotas-debug.apk",
+  "notes": "Navegação livre no mapa, botão Centralizar, modos Centralizado e Geral (você + destino).",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.13/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
