@@ -1,8 +1,8 @@
 {
-  "versionName": "2.11",
-  "versionCode": 23,
+  "versionName": "2.12",
+  "versionCode": 24,
   "releasedAt": "2026-08-24",
-  "notes": "Menu com botão para procurar atualização. Sem campo de servidor.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.11/Erb-Rotas-debug.apk",
+  "notes": "Navegação com cores próprias (verde-água), sem o visual amarelo do 99.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.12/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
