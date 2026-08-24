@@ -1,8 +1,8 @@
 {
-  "versionName": "2.8",
-  "versionCode": 20,
+  "versionName": "2.9",
+  "versionCode": 21,
   "releasedAt": "2026-08-24",
-  "notes": "Swipe entregue/não entregue na lista e no cartão; excluir entrega depois da roteirização; filtro Loggi para não puxar outra cidade.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.8/Erb-Rotas-debug.apk",
+  "notes": "Navegar fica no mapa do app, sem abrir o Google Maps. Saudação ao concluir a rota.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.9/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
