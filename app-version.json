@@ -1,8 +1,8 @@
 {
-  "versionName": "2.15",
-  "versionCode": 27,
+  "versionName": "2.16",
+  "versionCode": 28,
   "releasedAt": "2026-08-25",
-  "notes": "Corrige a busca de atualização no celular. Excluir bolinha (uma ou laço) pede confirmação no SweetAlert.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.15/Erb-Rotas-debug.apk",
+  "notes": "Roteirização pelo tempo real da via: não termina a rua inteira antes de ir para a cruzada.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.16/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
