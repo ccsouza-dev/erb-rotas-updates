@@ -1,8 +1,8 @@
 {
-  "versionName": "2.14",
-  "versionCode": 26,
+  "versionName": "2.15",
+  "versionCode": 27,
   "releasedAt": "2026-08-25",
-  "notes": "Excluir bolinha (uma ou pelo laço) pede confirmação no SweetAlert, mesmo com a rota já otimizada.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.14/Erb-Rotas-debug.apk",
+  "notes": "Corrige a busca de atualização no celular. Excluir bolinha (uma ou laço) pede confirmação no SweetAlert.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.15/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
