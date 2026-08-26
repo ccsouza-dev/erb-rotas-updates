@@ -1,8 +1,8 @@
 {
-  "versionName": "2.16",
-  "versionCode": 28,
-  "releasedAt": "2026-08-25",
-  "notes": "Roteirização pelo tempo real da via: não termina a rua inteira antes de ir para a cruzada.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.16/Erb-Rotas-debug.apk",
+  "versionName": "2.17",
+  "versionCode": 29,
+  "releasedAt": "2026-08-26",
+  "notes": "Avenida com canteiro junta os dois lados. Chegada só no fim da via. Navegação com setas e endereço embaixo, junto de Entregue e Não entregue.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.17/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
