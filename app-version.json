@@ -1,8 +1,8 @@
 {
-  "versionName": "2.19",
-  "versionCode": 31,
+  "versionName": "2.20",
+  "versionCode": 32,
   "releasedAt": "2026-08-28",
-  "notes": "A voz da navegação no celular usa o TTS nativo do aparelho, igual ao leitor.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.19/Erb-Rotas-debug.apk",
+  "notes": "Botões para dar baixa: Envoy (Loggi), Anjun Express Nova e SimExpress M3. Voz da navegação no TTS nativo.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.20/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
