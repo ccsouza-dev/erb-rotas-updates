@@ -1,8 +1,8 @@
 {
-  "versionName": "2.20",
-  "versionCode": 32,
+  "versionName": "2.21",
+  "versionCode": 33,
   "releasedAt": "2026-08-28",
-  "notes": "Botões para dar baixa: Envoy (Loggi), Anjun Express Nova e SimExpress M3. Voz da navegação no TTS nativo.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.20/Erb-Rotas-debug.apk",
+  "notes": "Ao chegar na parada, abre sozinho o app da operadora para dar baixa. Se tiver mais de uma, abre uma e deixa os outros botões na barra.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.21/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
