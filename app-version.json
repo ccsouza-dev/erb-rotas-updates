@@ -1,8 +1,8 @@
 {
-  "versionName": "2.23",
-  "versionCode": 35,
+  "versionName": "2.24",
+  "versionCode": 36,
   "releasedAt": "2026-08-31",
-  "notes": "Correção: o app não fica mais pedindo a mesma atualização depois de instalar. A versão instalada é lida do Android, não de um número fixo no código.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.23/Erb-Rotas-debug.apk",
+  "notes": "Correção do traçado no mapa: a linha azul segue as ruas conectadas e não atravessa mais quarteirões. Roteamento trecho a trecho quando a geometria falha.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.24/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
