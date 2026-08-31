@@ -1,8 +1,8 @@
 {
-  "versionName": "2.22",
-  "versionCode": 34,
+  "versionName": "2.23",
+  "versionCode": 35,
   "releasedAt": "2026-08-31",
-  "notes": "Confirmar ID: o número da parada só é gravado depois de confirmar. Antes disso só Reotimizar; depois, Atualizar encaixa novas (ex.: 6.1) sem mudar os IDs antigos. Planilhas ficam guardadas no menu de rotas.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.22/Erb-Rotas-debug.apk",
+  "notes": "Correção: o app não fica mais pedindo a mesma atualização depois de instalar. A versão instalada é lida do Android, não de um número fixo no código.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.23/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
