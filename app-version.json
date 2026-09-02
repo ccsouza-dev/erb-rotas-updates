@@ -1,8 +1,8 @@
 {
-  "versionName": "2.26",
-  "versionCode": 38,
-  "releasedAt": "2026-09-01",
-  "notes": "Tela inicial: importar planilha ou criar rota avulsa pacote a pacote. Ditado por voz com ícone de microfone em busca, endereço, notas e wizard. Campo de nota ao incluir parada avulsa.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.26/Erb-Rotas-debug.apk",
+  "versionName": "2.27",
+  "versionCode": 39,
+  "releasedAt": "2026-09-02",
+  "notes": "Navegação: voz da parada não corta instruções de rota; anuncia plataforma (Loggi, Anjun, Logan) e primeira/última/próxima parada. Botão + para adicionar pacotes no mapa (FAB amarelo). Aba inferior minimizada quando não há rota ativa. Botões das plataformas com fundo branco e logos maiores.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.27/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
