@@ -1,8 +1,8 @@
 {
-  "versionName": "2.28",
-  "versionCode": 40,
+  "versionName": "2.29",
+  "versionCode": 41,
   "releasedAt": "2026-09-04",
-  "notes": "Leitor de pacotes: ao pesquisar, a câmera pausa de verdade (app mais leve) e o filtro fica ágil. Microfone da busca visível — botões do mapa não sobrepõem mais o leitor. FABs do mapa só aparecem quando o mapa está na tela.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.28/Erb-Rotas-debug.apk",
+  "notes": "Navegação no mobile: anúncio da próxima parada (ID, pacotes e plataforma) completa antes das instruções de manobra. Corrige voz de rota começando cedo demais.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.29/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
