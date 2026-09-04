@@ -1,8 +1,8 @@
 {
-  "versionName": "2.29",
-  "versionCode": 41,
+  "versionName": "2.30",
+  "versionCode": 42,
   "releasedAt": "2026-09-04",
-  "notes": "Navegação no mobile: anúncio da próxima parada (ID, pacotes e plataforma) completa antes das instruções de manobra. Corrige voz de rota começando cedo demais.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.29/Erb-Rotas-debug.apk",
+  "notes": "Otimização no esquema Spoke: matriz de tempos nas ruas (OSRM em pedaços) → ordem de visita → desenho do caminho. Corrige rota instantânea por aproximação local em rotas grandes. Progresso em etapas.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.30/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
