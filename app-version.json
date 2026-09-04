@@ -1,8 +1,8 @@
 {
-  "versionName": "2.31",
-  "versionCode": 43,
+  "versionName": "2.32",
+  "versionCode": 44,
   "releasedAt": "2026-09-04",
-  "notes": "Otimização estilo Spoke: termina um bolsão/vila antes de pular para outro (cluster geográfico + matriz OSRM). Corrige trajetória que fatiava uma vila, ia a outra e voltava.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.31/Erb-Rotas-debug.apk",
+  "notes": "Corrige regressão da v2.31: mantém a ordem do VROOM/TSP e só polisce zigue-zague barato entre vilas (sem reescrever a rota por cluster rígido).",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.32/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
