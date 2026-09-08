@@ -1,8 +1,8 @@
 {
-  "versionName": "2.33",
-  "versionCode": 45,
+  "versionName": "2.34",
+  "versionCode": 46,
   "releasedAt": "2026-09-08",
-  "notes": "Inclusão avulsa: + reabre a próxima parada com o microfone ligado; após o código, escolhe Logan/Anjun/Loggi. Hold no mapa grava o endereço do ponto e não empilha bolinhas no mesmo lugar.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.33/Erb-Rotas-debug.apk",
+  "notes": "Abrir planilha pelo Android: guarda a rota atual (mesmo incompleta), limpa as paradas e só então importa a nova. Bolinha amarela = ordem de visita; ID = número do pacote. Atualizar rota encaixa a nova (ex.: bolinha 4 com ID 3.1); Reotimizar zera os dois.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.34/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
