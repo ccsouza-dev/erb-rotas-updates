@@ -1,8 +1,8 @@
 {
-  "versionName": "2.32",
-  "versionCode": 44,
-  "releasedAt": "2026-09-04",
-  "notes": "Corrige regressão da v2.31: mantém a ordem do VROOM/TSP e só polisce zigue-zague barato entre vilas (sem reescrever a rota por cluster rígido).",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.32/Erb-Rotas-debug.apk",
+  "versionName": "2.33",
+  "versionCode": 45,
+  "releasedAt": "2026-09-08",
+  "notes": "Inclusão avulsa: + reabre a próxima parada com o microfone ligado; após o código, escolhe Logan/Anjun/Loggi. Hold no mapa grava o endereço do ponto e não empilha bolinhas no mesmo lugar.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.33/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
