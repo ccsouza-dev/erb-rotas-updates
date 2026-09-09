@@ -1,8 +1,8 @@
 {
-  "versionName": "2.36",
-  "versionCode": 48,
+  "versionName": "2.37",
+  "versionCode": 49,
   "releasedAt": "2026-09-09",
-  "notes": "App travado em retrato: a tela não gira mais para paisagem.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.36/Erb-Rotas-debug.apk",
+  "notes": "Roteirização pelo tempo de rua (OSRM), sem penalidade de vila. Scanner mostra o número antes da voz. IDs com + permanecem após Atualizar. Lista: primeiro toque seleciona, segundo abre o detalhe.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.37/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
