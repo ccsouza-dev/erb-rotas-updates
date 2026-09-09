@@ -1,8 +1,8 @@
 {
-  "versionName": "2.35",
-  "versionCode": 47,
-  "releasedAt": "2026-09-08",
-  "notes": "Depois de roteirizar, bolinha e ID já ficam 1, 2, 3…. Incluir parada nova volta a mostrar Atualizar (ex.: bolinha 4 com ID 3.1) e Reotimizar (1, 2, 3… de novo, sem zerar os IDs).",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.35/Erb-Rotas-debug.apk",
+  "versionName": "2.36",
+  "versionCode": 48,
+  "releasedAt": "2026-09-09",
+  "notes": "App travado em retrato: a tela não gira mais para paisagem.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.36/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
