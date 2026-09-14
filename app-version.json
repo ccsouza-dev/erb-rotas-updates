@@ -1,8 +1,8 @@
 {
-  "versionName": "2.40",
-  "versionCode": 52,
-  "releasedAt": "2026-09-11",
-  "notes": "Roteirização ida e volta em ferradura (um lado da cidade na ida, outro na volta). OSRM local + VROOM; ordem do TSP não sobrescreve mais o padrão operacional. Payload de otimização ampliado (32 MB).",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.40/Erb-Rotas-debug.apk",
+  "versionName": "2.41",
+  "versionCode": 53,
+  "releasedAt": "2026-09-14",
+  "notes": "Roteirização por região: ordena as bolinhas por proximidade (termina o bairro antes de pular) e só então traça a rota nas ruas com Google. Routes API para geometria; Route Optimization disponível no servidor.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.41/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
