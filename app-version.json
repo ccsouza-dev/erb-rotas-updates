@@ -1,8 +1,8 @@
 {
-  "versionName": "2.42",
-  "versionCode": 54,
+  "versionName": "2.43",
+  "versionCode": 55,
   "releasedAt": "2026-09-15",
-  "notes": "Plataforma J&T (voz \"jota i tê\", abre JTC Sprinter). Geocode: não planta pin no CEP errado nem em rua parecida do outro lado da cidade.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.42/Erb-Rotas-debug.apk",
+  "notes": "Rota no mapa sem linha tracejada (traco continuo). Mantem J&T e correcao de geocode da 2.42.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.43/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
