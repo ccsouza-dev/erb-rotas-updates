@@ -1,8 +1,8 @@
 {
-  "versionName": "2.44",
-  "versionCode": 56,
+  "versionName": "2.45",
+  "versionCode": 57,
   "releasedAt": "2026-09-16",
-  "notes": "API na nuvem (Cloud Run): otimizar no celular sem depender do PC. Offline: mesma ordem por região do servidor (sem bagunça OSRM). GPS e rota nas ruas mantidos.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.44/Erb-Rotas-debug.apk",
+  "notes": "Navegação GPS: mapa sem corte preto + visual mais animado (estilo Waze). Endereço não encontrado na importação: pergunta se quer marcar no mapa (segurar 1s).",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.45/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
