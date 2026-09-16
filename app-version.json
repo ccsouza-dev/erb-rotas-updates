@@ -1,8 +1,8 @@
 {
-  "versionName": "2.45",
-  "versionCode": 57,
+  "versionName": "2.46",
+  "versionCode": 58,
   "releasedAt": "2026-09-16",
-  "notes": "Navegação GPS: mapa sem corte preto + visual mais animado (estilo Waze). Endereço não encontrado na importação: pergunta se quer marcar no mapa (segurar 1s).",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.45/Erb-Rotas-debug.apk",
+  "notes": "Navegacao GPS: sem corte preto (sem tilt 3D). Parado na mesa nao treme mais (trava rumo e posicao). Mapa maior sob a rotacao.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.46/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
