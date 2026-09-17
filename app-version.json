@@ -1,8 +1,8 @@
 {
-  "versionName": "2.46",
-  "versionCode": 58,
-  "releasedAt": "2026-09-16",
-  "notes": "Navegacao GPS: sem corte preto (sem tilt 3D). Parado na mesa nao treme mais (trava rumo e posicao). Mapa maior sob a rotacao.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.46/Erb-Rotas-debug.apk",
+  "versionName": "2.47",
+  "versionCode": 59,
+  "releasedAt": "2026-09-17",
+  "notes": "Navegacao limpa estilo GPS: aba e botoes laterais somem em ~2s e voltam no toque. Places: acha condominio (ex. Golden Ville). Rota Google respeita acesso.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.47/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
