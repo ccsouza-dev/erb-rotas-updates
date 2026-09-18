@@ -1,8 +1,8 @@
 {
-  "versionName": "2.48",
-  "versionCode": 60,
+  "versionName": "2.49",
+  "versionCode": 61,
   "releasedAt": "2026-09-18",
-  "notes": "Offline: linha das ruas e pernas de nav salvas; cache de tiles do mapa na regiao da rota. Sem satelite (so mapa/escuro). Nome na inclusao avulsa. Detalhe: swipe troca parada. Leitura ID: bip sem fala. Fechar camera maior.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.48/Erb-Rotas-debug.apk",
+  "notes": "Otimizacao estilo Spoke: fecha o condominio/bolsao inteiro antes de saltar (nao reabre #19-28 depois em #53-58). Offline e mapa iguais a 2.48.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.49/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
