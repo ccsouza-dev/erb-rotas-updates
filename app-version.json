@@ -1,8 +1,8 @@
 {
-  "versionName": "2.50",
-  "versionCode": 62,
+  "versionName": "2.51",
+  "versionCode": 63,
   "releasedAt": "2026-09-21",
-  "notes": "Spoke de verdade: ordem pelas vias (Google Routes / matriz de tempos), nao vizinho em linha reta. Corrige rota que ia na 5 no fim e voltava.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.50/Erb-Rotas-debug.apk",
+  "notes": "Corrige linha reta entre bolinhas: apos ordenar nas vias, redesenha a polyline densa nas ruas. Ordem Spoke da 2.50 mantida.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.51/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
