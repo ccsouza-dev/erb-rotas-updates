@@ -1,8 +1,8 @@
 {
-  "versionName": "2.52",
-  "versionCode": 64,
+  "versionName": "2.53",
+  "versionCode": 65,
   "releasedAt": "2026-09-21",
-  "notes": "Botao Imprimir rota (manifesto estilo Spoke: ETA, endereco, destinatario, pacotes, codigos). Inclui 2.51 (linha nas ruas).",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.52/Erb-Rotas-debug.apk",
+  "notes": "Imprimir rota no Android via PrintManager nativo (window.print do WebView nao funcionava). Botao Imprimir da 2.52.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.53/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
