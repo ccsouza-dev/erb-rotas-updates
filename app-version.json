@@ -1,8 +1,8 @@
 {
-  "versionName": "2.53",
-  "versionCode": 65,
+  "versionName": "2.54",
+  "versionCode": 66,
   "releasedAt": "2026-09-21",
-  "notes": "Imprimir rota no Android via PrintManager nativo (window.print do WebView nao funcionava). Botao Imprimir da 2.52.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.53/Erb-Rotas-debug.apk",
+  "notes": "Spoke de verdade em rotas grandes: Google Route Optimization (nao ferradura). Corrige 67km vs 37km, reentrada em condominio e salto entre bairros.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.54/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
