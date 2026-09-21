@@ -1,8 +1,8 @@
 {
-  "versionName": "2.54",
-  "versionCode": 66,
+  "versionName": "2.55",
+  "versionCode": 67,
   "releasedAt": "2026-09-21",
-  "notes": "Spoke de verdade em rotas grandes: Google Route Optimization (nao ferradura). Corrige 67km vs 37km, reentrada em condominio e salto entre bairros.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.54/Erb-Rotas-debug.apk",
+  "notes": "Route Opt estilo Spoke: softMax 400m (condominio), agrupa visitas proximas, sem trafego ao vivo, sem compact que baguncava a ordem. Mira ~37km na rota da Jaqueline.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.55/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
