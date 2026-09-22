@@ -1,8 +1,8 @@
 {
-  "versionName": "2.56",
-  "versionCode": 68,
+  "versionName": "2.57",
+  "versionCode": 69,
   "releasedAt": "2026-09-22",
-  "notes": "Roteirizacao Spoke: bolsao (Paineiras/Golden Ville) fecha inteiro antes de sair; tag por bairro no Route Opt; softMax 700m. Anjun layout A/AA-AF + entregador N.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.56/Erb-Rotas-debug.apk",
+  "notes": "Mapa Google Maps Platform (estilo Spoke) na abertura. Fallback Esri se API indisponivel. Bolsões contíguos na rota.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.57/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
