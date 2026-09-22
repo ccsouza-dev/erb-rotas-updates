@@ -1,8 +1,8 @@
 {
-  "versionName": "2.59",
-  "versionCode": 71,
+  "versionName": "2.60",
+  "versionCode": 72,
   "releasedAt": "2026-09-22",
-  "notes": "Corrige mapa sumido: base Esri de novo (GoogleMutant no WebView ficava em branco). Navegação Google continua no Navigation SDK nativo.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.59/Erb-Rotas-debug.apk",
+  "notes": "Aprende com o usuário: ao mover a bolinha no mapa, grava pessoa+endereço e na próxima importação já coloca o pin no mesmo local (ex.: portaria do condomínio → apartamento).",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.60/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
