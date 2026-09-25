@@ -1,8 +1,8 @@
 {
-  "versionName": "2.60",
-  "versionCode": 72,
-  "releasedAt": "2026-09-22",
-  "notes": "Aprende com o usuário: ao mover a bolinha no mapa, grava pessoa+endereço e na próxima importação já coloca o pin no mesmo local (ex.: portaria do condomínio → apartamento).",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.60/Erb-Rotas-debug.apk",
+  "versionName": "2.61",
+  "versionCode": 73,
+  "releasedAt": "2026-09-25",
+  "notes": "Ficha da parada: crossfade ao trocar de lado; entregue/não entregue abre a próxima. Unificador com contagem por plataforma; Route Optimization Google; arraste do mapa com botão direito.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.61/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
