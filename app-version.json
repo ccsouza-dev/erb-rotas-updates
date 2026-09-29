@@ -1,8 +1,8 @@
 {
-  "versionName": "2.62",
-  "versionCode": 74,
+  "versionName": "2.63",
+  "versionCode": 75,
   "releasedAt": "2026-09-29",
-  "notes": "Mapa não fica mais em branco se o cache travar. Rua interna de condomínio no lugar certo. Interfone não entra como número da porta.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.62/Erb-Rotas-debug.apk",
+  "notes": "Navegação fica no GPS do aparelho. Botões laterais voltam a aparecer. A tela do celular não abre mais em branco.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.63/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
