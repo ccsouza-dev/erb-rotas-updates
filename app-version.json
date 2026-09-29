@@ -1,8 +1,8 @@
 {
-  "versionName": "2.63",
-  "versionCode": 75,
+  "versionName": "2.64",
+  "versionCode": 76,
   "releasedAt": "2026-09-29",
-  "notes": "Navegação fica no GPS do aparelho. Botões laterais voltam a aparecer. A tela do celular não abre mais em branco.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.63/Erb-Rotas-debug.apk",
+  "notes": "A baixa fica na mesma tela. No detalhe, ID, parada e nome ficam em destaque. Chegar na parada não abre mais o app da plataforma.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.64/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
