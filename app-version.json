@@ -1,8 +1,8 @@
 {
-  "versionName": "2.61",
-  "versionCode": 73,
-  "releasedAt": "2026-09-25",
-  "notes": "Ficha da parada: crossfade ao trocar de lado; entregue/não entregue abre a próxima. Unificador com contagem por plataforma; Route Optimization Google; arraste do mapa com botão direito.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.61/Erb-Rotas-debug.apk",
+  "versionName": "2.62",
+  "versionCode": 74,
+  "releasedAt": "2026-09-29",
+  "notes": "Mapa não fica mais em branco se o cache travar. Rua interna de condomínio no lugar certo. Interfone não entra como número da porta.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.62/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
