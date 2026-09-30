@@ -1,8 +1,8 @@
 {
-  "versionName": "2.67",
-  "versionCode": 79,
+  "versionName": "2.68",
+  "versionCode": 80,
   "releasedAt": "2026-09-30",
-  "notes": "A navegação abre com o carro fixo embaixo e o mapa girando. O mapa fica colorido: ruas brancas, avenidas amarelas, rodovia laranja, rota azul.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.67/Erb-Rotas-debug.apk",
+  "notes": "Com o app aberto, o Android não esmaece nem apaga a tela.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.68/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
