@@ -1,8 +1,8 @@
 {
-  "versionName": "2.68",
-  "versionCode": 80,
+  "versionName": "2.69",
+  "versionCode": 81,
   "releasedAt": "2026-09-30",
-  "notes": "Com o app aberto, o Android não esmaece nem apaga a tela.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.68/Erb-Rotas-debug.apk",
+  "notes": "O mapa da tela inicial deixa de mostrar API KEY REQUIRED.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.69/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
