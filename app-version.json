@@ -1,8 +1,8 @@
 {
-  "versionName": "2.65",
-  "versionCode": 77,
+  "versionName": "2.66",
+  "versionCode": 78,
   "releasedAt": "2026-09-30",
-  "notes": "Na navegação o carro fica fixo embaixo e o mapa gira. A voz avisa a manobra pela distância na rota. Ao mudar o trajeto, um som avisa que a rota nova até a próxima parada está sendo criada. No detalhe, a parada fica na bolinha com o resumo das plataformas.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.65/Erb-Rotas-debug.apk",
+  "notes": "No detalhe da parada, a linha que repetia a plataforma do pacote saiu. O resumo continua ao lado da bolinha.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.66/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
