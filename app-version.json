@@ -1,8 +1,8 @@
 {
-  "versionName": "2.73",
-  "versionCode": 85,
+  "versionName": "2.74",
+  "versionCode": 86,
   "releasedAt": "2026-10-02",
-  "notes": "Navegação sem corte, mesmos nomes no mapa escuro, ponto firme, seta embaixo e aba igual ao detalhe do pacote.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.73/Erb-Rotas-debug.apk",
+  "notes": "GPS de novo com voce embaixo e o mapa girando. O botao de vistas tem so as quatro: GPS, proxima, proximas e rota toda. Centralizar volta para o GPS.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.74/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
