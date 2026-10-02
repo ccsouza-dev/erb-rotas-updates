@@ -1,8 +1,8 @@
 {
-  "versionName": "2.74",
-  "versionCode": 86,
+  "versionName": "2.75",
+  "versionCode": 87,
   "releasedAt": "2026-10-02",
-  "notes": "GPS de novo com voce embaixo e o mapa girando. O botao de vistas tem so as quatro: GPS, proxima, proximas e rota toda. Centralizar volta para o GPS.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.74/Erb-Rotas-debug.apk",
+  "notes": "GPS gira no tamanho da tela, sem cortar a borda, com voce embaixo.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.75/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
