@@ -1,8 +1,8 @@
 {
-  "versionName": "2.69",
-  "versionCode": 81,
-  "releasedAt": "2026-09-30",
-  "notes": "O mapa da tela inicial deixa de mostrar API KEY REQUIRED.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.69/Erb-Rotas-debug.apk",
+  "versionName": "2.70",
+  "versionCode": 82,
+  "releasedAt": "2026-10-02",
+  "notes": "Navegação: a seta fica parada apontando para cima e o mapa gira com a rua.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.70/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
