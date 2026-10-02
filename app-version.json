@@ -1,8 +1,8 @@
 {
-  "versionName": "2.71",
-  "versionCode": 83,
+  "versionName": "2.72",
+  "versionCode": 84,
   "releasedAt": "2026-10-02",
-  "notes": "Navegação no estilo Google: você fica embaixo, a seta aponta para cima e o mapa gira com a rua. Sem satélite.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.71/Erb-Rotas-debug.apk",
+  "notes": "Navegação: abas nas cores de antes. O mapa gira sem cortar a borda e baixa os tiles da rua na primeira vez.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.72/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
