@@ -1,8 +1,8 @@
 {
-  "versionName": "2.75",
-  "versionCode": 87,
+  "versionName": "2.76",
+  "versionCode": 88,
   "releasedAt": "2026-10-02",
-  "notes": "GPS gira no tamanho da tela, sem cortar a borda, com voce embaixo.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.75/Erb-Rotas-debug.apk",
+  "notes": "Ao soltar a bolinha, pergunta se salva o cliente e o endereco nessa posicao para a proxima carga.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.76/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
