@@ -1,8 +1,8 @@
 {
-  "versionName": "2.76",
-  "versionCode": 88,
-  "releasedAt": "2026-10-02",
-  "notes": "Ao soltar a bolinha, pergunta se salva o cliente e o endereco nessa posicao para a proxima carga.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.76/Erb-Rotas-debug.apk",
+  "versionName": "2.77",
+  "versionCode": 89,
+  "releasedAt": "2026-10-07",
+  "notes": "Lista com endereco, nome, plataforma e codigo. ID amarelo abaixo da bolinha. Atualizar, reotimizar e limpar pedem confirmacao. GPS so avisa a proxima rua.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.77/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
