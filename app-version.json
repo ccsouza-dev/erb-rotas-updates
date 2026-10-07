@@ -1,8 +1,8 @@
 {
-  "versionName": "2.77",
-  "versionCode": 89,
+  "versionName": "2.78",
+  "versionCode": 90,
   "releasedAt": "2026-10-07",
-  "notes": "Lista com endereco, nome, plataforma e codigo. ID amarelo abaixo da bolinha. Atualizar, reotimizar e limpar pedem confirmacao. GPS so avisa a proxima rua.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.77/Erb-Rotas-debug.apk",
+  "notes": "Imprimir so no menu. Limpar, limpar rota e alterar maiores. Exporta a rota atual em .croute para outro celular.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.78/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
