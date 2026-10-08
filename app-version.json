@@ -1,8 +1,8 @@
 {
-  "versionName": "2.78",
-  "versionCode": 90,
-  "releasedAt": "2026-10-07",
-  "notes": "Imprimir so no menu. Limpar, limpar rota e alterar maiores. Exporta a rota atual em .croute para outro celular.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.78/Erb-Rotas-debug.apk",
+  "versionName": "2.79",
+  "versionCode": 91,
+  "releasedAt": "2026-10-08",
+  "notes": "QR do pacote no detalhe e na lista. GPS recalcula so ao sair da linha azul e toca um som. Bolinha da parada no mapa. Toque mostra a aba sem mover o mapa; arrastar move; pinca aumenta e diminui. Bolinha pendente preta com borda amarela. Arquivo .croute abre ate o fim.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.79/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
