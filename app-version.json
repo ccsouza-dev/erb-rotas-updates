@@ -1,8 +1,8 @@
 {
-  "versionName": "2.79",
-  "versionCode": 91,
+  "versionName": "2.80",
+  "versionCode": 92,
   "releasedAt": "2026-10-08",
-  "notes": "QR do pacote no detalhe e na lista. GPS recalcula so ao sair da linha azul e toca um som. Bolinha da parada no mapa. Toque mostra a aba sem mover o mapa; arrastar move; pinca aumenta e diminui. Bolinha pendente preta com borda amarela. Arquivo .croute abre ate o fim.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.79/Erb-Rotas-debug.apk",
+  "notes": "Leitura do QR da Anjun mais agil; o codigo de barras ao lado continua valendo. Toque no codigo de qualquer plataforma abre em tela cheia com o logo. Ao voltar, esse codigo fica mais escuro. No detalhe com varios pacotes, quantidade e plataforma vao para a linha de baixo.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.80/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
