@@ -1,8 +1,8 @@
 {
-  "versionName": "2.80",
-  "versionCode": 92,
+  "versionName": "2.81",
+  "versionCode": 93,
   "releasedAt": "2026-10-08",
-  "notes": "Leitura do QR da Anjun mais agil; o codigo de barras ao lado continua valendo. Toque no codigo de qualquer plataforma abre em tela cheia com o logo. Ao voltar, esse codigo fica mais escuro. No detalhe com varios pacotes, quantidade e plataforma vao para a linha de baixo.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.80/Erb-Rotas-debug.apk",
+  "notes": "No detalhe o nome do cliente fica abaixo do codigo, mesmo com um pacote so. O toque abre o codigo ampliado e ele permanece ate o proximo toque. Arrastar em cima do QR continua valendo na lista e no detalhe.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.81/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
