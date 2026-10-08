@@ -1,8 +1,8 @@
 {
-  "versionName": "2.81",
-  "versionCode": 93,
+  "versionName": "2.82",
+  "versionCode": 94,
   "releasedAt": "2026-10-08",
-  "notes": "No detalhe o nome do cliente fica abaixo do codigo, mesmo com um pacote so. O toque abre o codigo ampliado e ele permanece ate o proximo toque. Arrastar em cima do QR continua valendo na lista e no detalhe.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.81/Erb-Rotas-debug.apk",
+  "notes": "QR da Anjun no formato da etiqueta, com os quadradinhos do link de rastreio, sem caixa, igual aos outros codigos.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.82/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
