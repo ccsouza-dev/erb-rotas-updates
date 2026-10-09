@@ -1,8 +1,8 @@
 {
-  "versionName": "2.82",
-  "versionCode": 94,
-  "releasedAt": "2026-10-08",
-  "notes": "QR da Anjun no formato da etiqueta, com os quadradinhos do link de rastreio, sem caixa, igual aos outros codigos.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.82/Erb-Rotas-debug.apk",
+  "versionName": "2.83",
+  "versionCode": 95,
+  "releasedAt": "2026-10-09",
+  "notes": "Código da Anjun em Data Matrix, com o número do pacote. O + volta para separar uma pessoa do mesmo endereço. Limpar tem a opção de limpar sem guardar no menu.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.83/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
