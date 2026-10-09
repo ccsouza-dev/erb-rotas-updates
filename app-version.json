@@ -1,8 +1,8 @@
 {
-  "versionName": "2.85",
-  "versionCode": 97,
+  "versionName": "2.86",
+  "versionCode": 98,
   "releasedAt": "2026-10-09",
-  "notes": "Navegador padrão: Google, Waze ou o do Erb. Com Google ou Waze, o Erb acompanha por baixo, volta na chegada e fica em silêncio. Pede permissão para sobrepor outros apps.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.85/Erb-Rotas-debug.apk",
+  "notes": "Ao chegar com o Google ou o Waze, só a aba da parada aparece por cima. Entregue ou Não entregue fecha a aba e abre a próxima no mesmo navegador.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.86/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
