@@ -1,8 +1,8 @@
 {
-  "versionName": "2.86",
-  "versionCode": 98,
+  "versionName": "2.87",
+  "versionCode": 99,
   "releasedAt": "2026-10-09",
-  "notes": "Ao chegar com o Google ou o Waze, só a aba da parada aparece por cima. Entregue ou Não entregue fecha a aba e abre a próxima no mesmo navegador.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.86/Erb-Rotas-debug.apk",
+  "notes": "Ao chegar com o Google ou o Waze, abre a ficha de detalhe. Entregue ou Não entregue manda a próxima parada para o mesmo navegador. A linha de bairro saiu da ficha.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.87/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
