@@ -1,8 +1,8 @@
 {
-  "versionName": "2.83",
-  "versionCode": 95,
+  "versionName": "2.84",
+  "versionCode": 96,
   "releasedAt": "2026-10-09",
-  "notes": "Código da Anjun em Data Matrix, com o número do pacote. O + volta para separar uma pessoa do mesmo endereço. Limpar tem a opção de limpar sem guardar no menu.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.83/Erb-Rotas-debug.apk",
+  "notes": "O nome do cliente aparece ao tocar na bolinha antes de roterizar.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.84/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
