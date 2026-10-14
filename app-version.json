@@ -1,8 +1,8 @@
 {
-  "versionName": "2.89",
-  "versionCode": 101,
+  "versionName": "2.90",
+  "versionCode": 102,
   "releasedAt": "2026-10-14",
-  "notes": "O ponto volta para a rua desenhada no mapa. Grafia parecida não empilha mais as paradas em outro lugar.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.89/Erb-Rotas-debug.apk",
+  "notes": "Estrada municipal acha a rua desenhada no mapa, mesmo quando o nome oficial é outro.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.90/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
