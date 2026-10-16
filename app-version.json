@@ -1,8 +1,8 @@
 {
-  "versionName": "2.90",
-  "versionCode": 102,
-  "releasedAt": "2026-10-14",
-  "notes": "Estrada municipal acha a rua desenhada no mapa, mesmo quando o nome oficial é outro.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.90/Erb-Rotas-debug.apk",
+  "versionName": "2.91",
+  "versionCode": 103,
+  "releasedAt": "2026-10-16",
+  "notes": "O nome do cliente vai no arquivo e aparece na bolinha antes de roteirizar. Complemento, telefone e entregador também seguem.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.91/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
