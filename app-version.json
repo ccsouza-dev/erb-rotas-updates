@@ -1,8 +1,8 @@
 {
-  "versionName": "2.92",
-  "versionCode": 104,
-  "releasedAt": "2026-10-16",
-  "notes": "Os nomes ao lado das bolinhas saem do mapa. O nome do cliente continua no arquivo, na lista e ao tocar na bolinha.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.92/Erb-Rotas-debug.apk",
+  "versionName": "2.93",
+  "versionCode": 105,
+  "releasedAt": "2026-10-19",
+  "notes": "Ao aumentar os pacotes de uma parada, o campo novo tem câmera para ler o código de barras.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.93/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
