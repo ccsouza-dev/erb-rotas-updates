@@ -1,8 +1,8 @@
 {
-  "versionName": "2.93",
-  "versionCode": 105,
-  "releasedAt": "2026-10-19",
-  "notes": "Ao aumentar os pacotes de uma parada, o campo novo tem câmera para ler o código de barras.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.93/Erb-Rotas-debug.apk",
+  "versionName": "2.94",
+  "versionCode": 106,
+  "releasedAt": "2026-10-20",
+  "notes": "Segurar a bolinha numerada move o ponto. A posição salva vale pela rua e pelo número, para qualquer pessoa. O código quadrado da Anjun lê mais rápido.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.94/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
