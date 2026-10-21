@@ -1,8 +1,8 @@
 {
-  "versionName": "2.94",
-  "versionCode": 106,
-  "releasedAt": "2026-10-20",
-  "notes": "Segurar a bolinha numerada move o ponto. A posição salva vale pela rua e pelo número, para qualquer pessoa. O código quadrado da Anjun lê mais rápido.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.94/Erb-Rotas-debug.apk",
+  "versionName": "2.95",
+  "versionCode": 107,
+  "releasedAt": "2026-10-21",
+  "notes": "Iniciar rota fica na primeira parada. Atualizar encaixa a parada nova sem travar a tela. Confirmar ID só aparece na rota feita na mão. Guardar e limpar grava sempre, com o horário no nome. A tela só abre quando o número está na bolinha.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.95/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
