@@ -1,8 +1,8 @@
 {
-  "versionName": "2.95",
-  "versionCode": 107,
-  "releasedAt": "2026-10-21",
-  "notes": "Iniciar rota fica na primeira parada. Atualizar encaixa a parada nova sem travar a tela. Confirmar ID só aparece na rota feita na mão. Guardar e limpar grava sempre, com o horário no nome. A tela só abre quando o número está na bolinha.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.95/Erb-Rotas-debug.apk",
+  "versionName": "2.96",
+  "versionCode": 108,
+  "releasedAt": "2026-10-26",
+  "notes": "O + fica em cada pessoa, inclusive na última. O endereço ditado e o arraste da bolinha ficam salvos no nome. Na próxima compra essa pessoa já nasce nesse ponto.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.96/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
