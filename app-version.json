@@ -1,8 +1,8 @@
 {
-  "versionName": "2.96",
-  "versionCode": 108,
-  "releasedAt": "2026-10-26",
-  "notes": "O + fica em cada pessoa, inclusive na última. O endereço ditado e o arraste da bolinha ficam salvos no nome. Na próxima compra essa pessoa já nasce nesse ponto.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.96/Erb-Rotas-debug.apk",
+  "versionName": "2.97",
+  "versionCode": 109,
+  "releasedAt": "2026-11-03",
+  "notes": "Entregue e Não entregue continuam gravados se você sair do Erb e voltar minutos depois.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.97/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
