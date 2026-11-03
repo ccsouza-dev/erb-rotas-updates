@@ -1,8 +1,8 @@
 {
-  "versionName": "2.98",
-  "versionCode": 110,
+  "versionName": "2.99",
+  "versionCode": 111,
   "releasedAt": "2026-11-03",
-  "notes": "Na Anjun, quando a coluna B não repete a coluna A, esse código também entra no pacote e aparece na busca da rota.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.98/Erb-Rotas-debug.apk",
+  "notes": "O .croute abre e as bolinhas caem na hora. Bolinha laranja fica redonda, do mesmo tamanho da amarela, e mostra só o número da parada depois de roterizar. O ID, como 8-2, fica na lista e no detalhe.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.99/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
