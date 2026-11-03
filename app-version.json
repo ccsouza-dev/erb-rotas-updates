@@ -1,8 +1,8 @@
 {
-  "versionName": "2.97",
-  "versionCode": 109,
+  "versionName": "2.98",
+  "versionCode": 110,
   "releasedAt": "2026-11-03",
-  "notes": "Entregue e Não entregue continuam gravados se você sair do Erb e voltar minutos depois.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.97/Erb-Rotas-debug.apk",
+  "notes": "Na Anjun, quando a coluna B não repete a coluna A, esse código também entra no pacote e aparece na busca da rota.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.98/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
