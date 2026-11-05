@@ -1,8 +1,8 @@
 {
-  "versionName": "2.99",
-  "versionCode": 111,
-  "releasedAt": "2026-11-03",
-  "notes": "O .croute abre e as bolinhas caem na hora. Bolinha laranja fica redonda, do mesmo tamanho da amarela, e mostra só o número da parada depois de roterizar. O ID, como 8-2, fica na lista e no detalhe.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v2.99/Erb-Rotas-debug.apk",
+  "versionName": "3.00",
+  "versionCode": 112,
+  "releasedAt": "2026-11-05",
+  "notes": "Bolinha laranja fica redonda antes de roterizar, no mesmo tamanho da amarela. Entregue fica verde e não entregue fica vermelha, também na laranja.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v3.00/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
