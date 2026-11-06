@@ -1,8 +1,8 @@
 {
-  "versionName": "3.00",
-  "versionCode": 112,
-  "releasedAt": "2026-11-05",
-  "notes": "Bolinha laranja fica redonda antes de roterizar, no mesmo tamanho da amarela. Entregue fica verde e não entregue fica vermelha, também na laranja.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v3.00/Erb-Rotas-debug.apk",
+  "versionName": "3.01",
+  "versionCode": 113,
+  "releasedAt": "2026-11-06",
+  "notes": "Pacote incluído depois da rota, entre o 8 e o 9, recebe ID 8.1. Os IDs que já estavam na rota continuam iguais.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v3.01/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
