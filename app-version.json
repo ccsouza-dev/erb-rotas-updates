@@ -1,8 +1,8 @@
 {
-  "versionName": "3.02",
-  "versionCode": 114,
+  "versionName": "3.03",
+  "versionCode": 115,
   "releasedAt": "2026-11-11",
-  "notes": "O leitor do celular usa a câmera nativa, a mesma leitura rápida do app Leitor.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v3.02/Erb-Rotas-debug.apk",
+  "notes": "A imagem da câmera aparece no leitor do celular.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v3.03/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
