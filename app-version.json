@@ -1,8 +1,8 @@
 {
-  "versionName": "3.04",
-  "versionCode": 116,
-  "releasedAt": "2026-11-11",
-  "notes": "O leitor abre de novo e a imagem da câmera aparece.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v3.04/Erb-Rotas-debug.apk",
+  "versionName": "3.05",
+  "versionCode": 117,
+  "releasedAt": "2026-11-14",
+  "notes": "Hungria Filho não mistura com a outra rua. O celular lê a lista de entrega da Anjun e coloca as bolinhas no mapa.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v3.05/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
