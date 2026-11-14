@@ -1,8 +1,8 @@
 {
-  "versionName": "3.05",
-  "versionCode": 117,
+  "versionName": "3.06",
+  "versionCode": 118,
   "releasedAt": "2026-11-14",
-  "notes": "Hungria Filho não mistura com a outra rua. O celular lê a lista de entrega da Anjun e coloca as bolinhas no mapa.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v3.05/Erb-Rotas-debug.apk",
+  "notes": "Abrir a lista da Anjun em outro app e escolher o Erb cria as paradas e as bolinhas.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v3.06/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
