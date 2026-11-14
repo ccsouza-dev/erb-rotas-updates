@@ -1,8 +1,8 @@
 {
-  "versionName": "3.06",
-  "versionCode": 118,
+  "versionName": "3.07",
+  "versionCode": 119,
   "releasedAt": "2026-11-14",
-  "notes": "Abrir a lista da Anjun em outro app e escolher o Erb cria as paradas e as bolinhas.",
-  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v3.06/Erb-Rotas-debug.apk",
+  "notes": "A lista da Anjun no celular passa pelo unificador: rua, CEP e bolinhas no mesmo lugar da planilha.",
+  "apkUrl": "https://github.com/ccsouza-dev/erb-rotas-updates/releases/download/v3.07/Erb-Rotas-debug.apk",
   "repoUrl": "https://github.com/ccsouza-dev/erb-rotas-updates"
 }
